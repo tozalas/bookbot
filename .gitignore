@@ -5,5 +5,5 @@
 temp/ 
 
 # Ignore VS code settings
-.vscode/
+/.vscode/
 
