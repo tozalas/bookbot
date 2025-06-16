@@ -1,0 +1,9 @@
+# Ignore log files
+*.log
+
+# Ignore temp folders
+temp/ 
+
+# Ignore VS code settings
+.vscode/
+
