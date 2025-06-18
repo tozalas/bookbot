@@ -4,6 +4,11 @@
 # Ignore temp folders
 temp/ 
 
-# Ignore VS code settings
-/.vscode/
+# Ignore the .vscode directory
+.vscode/
 
+# Ignore the books directory
+books
+
+# Ignore the pycache directory
+__pycache__/
